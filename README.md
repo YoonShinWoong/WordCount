@@ -1,0 +1,3 @@
+# WordCount
+WordCount_LIKELION_7th_Education
+190118
